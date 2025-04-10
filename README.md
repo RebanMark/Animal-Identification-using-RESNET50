@@ -44,7 +44,7 @@ To accurately identify and locate animals in wildlife images, helping support ef
 
 ## 🖼️ Sample Prediction
 
-![Sample Output](sample_output.png) <!-- Add an actual image path from your repo -->
+![Sample Output](Output.png) <!-- Add an actual image path from your repo -->
 
 ---
 
@@ -52,7 +52,7 @@ To accurately identify and locate animals in wildlife images, helping support ef
 
 1. Clone this repository
 2. Download the dataset from Kaggle and place it in your working directory
-3. Open `reban-miniproject.ipynb` in Jupyter or Colab
+3. Open `Animal Identification.ipynb` in Jupyter or Colab
 4. Run all cells to train and evaluate the model
 
 ---
